@@ -1,0 +1,15 @@
+[
+    { "title": "The Fellowship of the Ring", "author": "J.R.R. Tolkien", "ISBN": 9780007203543, "count": 10 },
+    { "title": "The Two Towers", "author": "J.R.R. Tolkien", "ISBN": 9780007203550, "count": 5 },
+    { "title": "The Return of the King", "author": "J.R.R. Tolkien", "ISBN": 9780618002245, "count": 8 },
+    { "title": "Harry Potter and the Sorcerer's Stone", "author": "J.K. Rowling", "ISBN": 9788869183157, "count": 24 },
+    { "title": "Harry Potter and the Chamber of Secrets", "author": "J.K. Rowling", "ISBN": 9780439064866, "count": 27 },
+    { "title": "Harry Potter and the Prisoner of Azkaban", "author": "J.K. Rowling", "ISBN": 9788869186127, "count": 3 },
+    { "title": "Harry Potter and the Goblet of Fire", "author": "J.K. Rowling", "ISBN": 9780439139595, "count": 1 },
+    { "title": "Harry Potter and the Order of the Phoenix", "author": "J.K. Rowling", "ISBN": 9780439358064, "count": 0 },
+    { "title": "Harry Potter and the Half-Blood Prince", "author": "J.K. Rowling", "ISBN": 9780439791328, "count": 6 },
+    { "title": "Harry Potter and the Deathly Hallows", "author": "J.K. Rowling", "ISBN": 9780545010221, "count": 15 },
+    { "title": "The Hunger Games", "author": "Suzanne Collins", "ISBN": 9780439023481, "count": 13 },
+    { "title": "Catching Fire", "author": "Suzanne Collins", "ISBN": 9780439023498, "count": 20 },
+    { "title": "Mockingjay", "author": "Suzanne Collins", "ISBN": 9780545310604, "count": 16 }
+]
